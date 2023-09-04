@@ -53,6 +53,9 @@ section h2 {
   grid-template-columns: auto auto auto;
   padding: 10px;
 }
+.recipe-card h3 {
+  text-align: center;
+}
 button {
   background-color: #333;
   color: white;
