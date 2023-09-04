@@ -21,10 +21,21 @@ nav a {
   color: white;
   margin: 10px;
 }
+section {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+section h2 {
+  text-align: center;
+}
 .container {
   max-width: 100%;
   margin: 0 auto;
   padding: 10px;
+  margin: 10px;
 }
 .recipe-card {
   background-color: white;
@@ -49,4 +60,26 @@ button {
   padding: 10px;
   border-radius: 5px;
   cursor: pointer;
+}
+button:hover {
+  background-color: #444;
+}
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  margin: 10px;
+}
+input:focus {
+  outline: none;
+  border: 1px solid #333;
+}
+table {
+  border-collapse: collapse;
+  width: 75%;
+  margin: 0 auto;
+}
+table td,
+table th {
+  padding: 8px;
 }
