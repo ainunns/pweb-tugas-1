@@ -4,5 +4,10 @@ Oleh:
 
 Ainun Nadhifah Syamsiyah (5025221053)
 
+## Deskripsi Tugas
+
+Membuat website sederhana menggunakan tag HTML sebanyak-banyaknya
+
 ## Demo
+
 ![image](https://github.com/ainunns/pweb-tugas-1/assets/58164571/f5560c25-7bbc-4db8-b9d7-de7c84697fca)
